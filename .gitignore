@@ -1,0 +1,3 @@
+*.pdf
+data/interim/relatorios_dos_processos/
+data/processed/corpus.csv

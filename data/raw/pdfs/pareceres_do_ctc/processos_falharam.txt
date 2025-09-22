@@ -1,0 +1,493 @@
+PROCESSOS QUE FALHARAM - PDF NÃO EXTRAÍDO
+==================================================
+
+001. 19957.000588/2021-63
+     Página: 14
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://sei.cvm.gov.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=1682649&id_orgao_publicacao=0
+
+002. 19957.011713/2022-41
+     Página: 17
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://super.cvm.gov.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2026059&id_orgao_publicacao=0
+
+003. 19957.003953/2021-91 e 19957.004982/2021-71
+     Página: 25
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://super.cvm.gov.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=1773877&id_orgao_publicacao=0
+
+004. 19957.010180/2022-81 e 19957.006441/2021-87
+     Página: 25
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://super.cvm.gov.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=1770998&id_orgao_publicacao=0
+
+005. 19957.007830/2021-20
+     Página: 28
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://sei.cvm.gov.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=1687548&id_orgao_publicacao=0
+
+006. 19957.004423/2018-65
+     Página: 61
+     Motivo: Erro HTTP 410 ao acessar página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/system/modules/br.com.squadra.principal/elements/cvm.gov.br/decisoes/2019/20190212_R1/20190212_D1306.html
+
+007. RJ2013/13240
+     Página: 86
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+008. RJ2012/1131 - RJ2012/13871
+     Página: 86
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2014/20141104_R1/20141104_D01.html
+
+009. RJ2012/8369
+     Página: 88
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2014/20141216_R1/20141216_D01.html
+
+010. RJ2011/10878
+     Página: 88
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+011. RJ2013/6128
+     Página: 89
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+012. RJ2013/13121 - RJ2013/8609
+     Página: 90
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2014/20140715_R1/20140715_D03.html
+
+013. 01/2012
+     Página: 91
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2014/20140401_R1/20140401_D05.html
+
+014. RJ2010/17292
+     Página: 94
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+015. RJ2012/4640
+     Página: 95
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2013/20131105_R1/20131105_D01.html
+
+016. 02/2010
+     Página: 96
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+017. RJ2012/9652
+     Página: 99
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+018. 02/2006
+     Página: 102
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2012/20121211_R1/20121211_D43.html
+
+019. RJ2010/15523
+     Página: 102
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2012/20121122_R1/20121122_D13.html
+
+020. RJ2011/11171
+     Página: 102
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+021. RJ2011/10821
+     Página: 103
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2012/20120828_R1/20120828_D22.html
+
+022. RJ2012/130
+     Página: 104
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2012/20120828_R1/20120828_D20.html
+
+023. SP2007/140
+     Página: 105
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2012/20120710_R1/20120710_D03.html
+
+024. RJ2010/2419
+     Página: 105
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2012/20120703_R2/20120703_D01.html
+
+025. RJ2012/4235
+     Página: 106
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+026. 02/2008
+     Página: 107
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+027. SP2006/137
+     Página: 107
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+028. RJ2007/13030
+     Página: 108
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+029. RJ2011/7375
+     Página: 108
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+030. RJ2011/7378
+     Página: 109
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+031. RJ2011/7386
+     Página: 109
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+032. RJ2011/7386
+     Página: 109
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+033. SP2009/54
+     Página: 109
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+034. RJ2010/15685
+     Página: 109
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+035. RJ2011/7384
+     Página: 110
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+036. RJ2011/9734
+     Página: 110
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+037. RJ2010/4524
+     Página: 110
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+038. RJ2011/0288
+     Página: 110
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+039. RJ2011/2039
+     Página: 110
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+040. RJ2010/9941
+     Página: 111
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+041. RJ2010/9941
+     Página: 111
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+042. RJ2011/1323
+     Página: 111
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+043. RJ2010/16605
+     Página: 111
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+044. 16/06 - RJ2010/17781
+     Página: 111
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+045. 16/06 - RJ2010/17781 - (TERMO ADITIVO)
+     Página: 112
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+046. RJ2010/11348
+     Página: 112
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+047. 12/09
+     Página: 112
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+048. 12/09
+     Página: 112
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+049. RJ2010/770
+     Página: 112
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+050. SP2010/0135
+     Página: 113
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+051. SP2010/135
+     Página: 113
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+052. RJ2010/7631
+     Página: 113
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+053. RJ2010/11519
+     Página: 113
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+054. RJ2010/11519
+     Página: 113
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+055. RJ2010/2554
+     Página: 114
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+056. RJ2010/2980
+     Página: 114
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+057. SP2010/238
+     Página: 114
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+058. RJ2010/13112
+     Página: 114
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+059. RJ2009/6757
+     Página: 114
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+060. RJ2010/11566
+     Página: 115
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+061. RJ2009/6713
+     Página: 119
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2010/20100525_R1/20100525_D03.html
+
+062. RJ2009/5286 - RJ2010/9731
+     Página: 119
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2010/20100126_R1/20100126_D06.html
+
+063. RJ2008/11105
+     Página: 126
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2009/20090818_R1/20090818_D08.html
+
+064. RJ2008/4857 - RJ2009/5730
+     Página: 128
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2009/20090728_R1/20090728_D08.html
+
+065. 27/05
+     Página: 132
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2009/20090303_R1/20090303_D03.html
+
+066. RJ2007/7292 e RJ2007/7548
+     Página: 135
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2008/20080624_R1/20080624_D10.html
+
+067. RJ2007/11305
+     Página: 136
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2008/20080605_R1/20080605_D02.html
+
+068. RJ2007/5035
+     Página: 137
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2008/20080520_R1/20080520_D03.html
+
+069. RJ2007/3772 e RJ2007/7549
+     Página: 137
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2008/20080513_R1/20080513_D04.html
+
+070. 27/05
+     Página: 138
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2009/20090303_R1/20090303_D03.html
+
+071. 13/04
+     Página: 146
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2007/20070710_R1/20070710_D06.html
+
+072. RJ2006/6235
+     Página: 146
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2007/20070703_R1/20070703_D05.html
+
+073. SP2005/0338
+     Página: 146
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2007/20070703_R1/20070703_D04.html
+
+074. RJ2006/1325
+     Página: 147
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2007/20070619_R1/20070619_D06.html
+
+075. RJ2005/8472
+     Página: 147
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2007/20070515_R1/20070515_D01.html
+
+076. RJ2005/7463
+     Página: 150
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2007/20070123_R1/20070123_D09.html
+
+077. 29/03
+     Página: 151
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2007/20070116_R1/20070116_D01.html
+
+078. 09/01
+     Página: 151
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2007/20070109_R1/20070109_D04.html
+
+079. RJ2004/1616 - PETROBRAS
+     Página: 157
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2007/20070424_R1/20070424_D04.html
+
+080. 02/02
+     Página: 158
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2006/20060926_R1/20060926_D07.html
+
+081. RJ2005/7245 - TORCEDOR S/A
+     Página: 159
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2007/20070314_R1/20070314_D01.html
+
+082. 19/00 - CARBOMIL S/A
+     Página: 166
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2002/20020529_R1/20020529_3018.html
+
+083. 19/00 - CARBOMIL S/A
+     Página: 166
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2002/20020529_R1/20020529_3018.html
+
+084. RJ2001/9705 - GLOBALVEST
+     Página: 166
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+085. RJ2001/0281 - CIA. MELHORAMENTOS DE SP
+     Página: 166
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+086. 13/00 - BRACO S/A (AMBEV/BRAHMA)
+     Página: 167
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2002/20020416_R1/20020416_D09.html
+
+087. 13/00 - BRACO S/A (AMBEV/BRAHMA)
+     Página: 167
+     Motivo: Link do PDF não encontrado na página de detalhes
+     URL Detalhes: https://conteudo.cvm.gov.br/decisoes/2002/20020416_R1/20020416_D09.html
+
+088. 25/98 - TUPY S/A
+     Página: 167
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+089. 04/99 - BOMBRIL
+     Página: 167
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+090. 22/98 - CREDIT SUISSE FST. BOSTON CORP.
+     Página: 167
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+091. 22/98 - CREDIT SUISSE FST. BOSTON CORP.
+     Página: 168
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+092. 30/93 - BRASILINVEST
+     Página: 168
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+093. RJ97/0696 - CONCÓRDIA
+     Página: 168
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+094. RJ98/3432 E - 15/96 - BANCO PONTUAL
+     Página: 168
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+095. SP96/0072 - PRIMUS CORRETORA
+     Página: 168
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+096. SP97/00250 - NOVAÇÃO
+     Página: 169
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+097. SP97/00250 - NOVAÇÃO
+     Página: 169
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
+098. RJ96/4025 - BANCO BANDEIRANTES DE INVEST.
+     Página: 169
+     Motivo: Tipo de link não corresponde: ""
+     URL Detalhes: N/A
+
