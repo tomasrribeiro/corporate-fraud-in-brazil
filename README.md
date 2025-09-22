@@ -5,6 +5,8 @@
 Este repositório contém os dados, códigos e documentos relacionados ao projeto de iniciação científica desenvolvido entre setembro de 2024 e outubro de 2025 na FEA/USP. O projeto teve como objetivo investigar fraudes corporativas no Brasil por meio da análise sistemática dos Processos Administrativos Sancionadores (PAS) conduzidos pela Comissão de Valores Mobiliários (CVM), focalizando especificamente casos de expropriação de acionistas minoritários por controladores e seus subordinados.
 Devido ao volume extenso de processos (mais de 2.100), o estudo adotou técnicas de Processamento de Linguagem Natural (PLN) para classificação automática dos documentos, representando a primeira tentativa de sistematização metodológica para aplicação de PLN a documentos regulatórios da CVM.
 
+Para mais informações, sugere-se a leitura do relatório final.
+
 ## Estrutura do Repositório
 
 ```
