@@ -66,7 +66,7 @@ A pasta `/notebooks/` contém os códigos desenvolvidos durante a pesquisa, orga
 - Corpus replicável para pesquisas futuras
 - Ferramentas de PLN adaptadas ao contexto jurídico-administrativo brasileiro
 
-## 👥 Autor
+## Autor
 
 **Tomás Peres Ribeiro**
 - Estudante de Economia - FEA/USP
